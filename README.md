@@ -1,4 +1,4 @@
-# AFK Notifier
+# AFK Notifier [Archived]
 
 > A data pack for 1.16x-1.18x
 
